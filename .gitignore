@@ -1,0 +1,4 @@
+# Project exclude paths
+/.tox/
+/htmlcov/
+/test_tox.egg-info/
